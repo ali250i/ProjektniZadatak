@@ -1,0 +1,53 @@
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\bin\Debug\MySql.Data.dll
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminKupci.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Form1.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminArtikli.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminNarudzbe.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacKreiranjeNarudzbe.resources
+C:\Users\Amil\Desktop\Amil Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacPrikazNarudzbi.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminArtikli.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminKupci.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminNarudzbe.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Form1.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacKreiranjeNarudzbe.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacPrikazNarudzbi.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Imran i Ridvan\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminArtikli.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminKupci.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminNarudzbe.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Form1.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacKreiranjeNarudzbe.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacPrikazNarudzbi.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Amil\Desktop\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminArtikli.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminKupci.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.AdminNarudzbe.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Form1.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacKreiranjeNarudzbe.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.KupacPrikazNarudzbi.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+E:\Ali Ljaljak\PPJ\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
